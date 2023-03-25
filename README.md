@@ -19,6 +19,7 @@ Isi form
 ![form isi](https://user-images.githubusercontent.com/120074410/227696618-45803f29-3523-4c11-9dbb-80c9c3ac8d8b.png)
 
 Inputan form masuk ke session storage
+![session](https://user-images.githubusercontent.com/120074410/227696981-d969e72a-1463-4762-b409-da62bbd433b1.png)
 
 Menampilkan hasil dari  form
 ![hasil form](https://user-images.githubusercontent.com/120074410/227696634-1fe1fd4c-bc8a-4b7d-8106-7500d4ec9ff2.png)
